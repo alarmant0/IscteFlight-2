@@ -6,6 +6,10 @@ Este projeto foi feito no âmbito da cadeira Sistemas Operativos no ISCTE e é u
 
 O IscteFlight-2 é um sistema de controle de vôo simplificado que consiste em um servidor e um cliente. O servidor controla os dados de vôo e o cliente interage com o servidor para enviar comandos e receber informações sobre os checkins.
 
+## Arquitetura do Projeto
+
+![Arquitetura](https://github.com/alarmant0/IscteFlight-2/blob/main/arquitetura.png)
+
 ## Como Usar
 
 ### Clonar o Repositório
