@@ -1,0 +1,11 @@
+s/^\s*int\s\s*main\s*(/int _student_main(/
+s/^\s*void\s\s*checkExistsFifoServidor_C1\s*(/void _student_checkExistsFifoServidor_C1(/
+s/^\s*void\s\s*triggerSignals_C2\s*(/void _student_triggerSignals_C2(/
+s/^\s*CheckIn\s\s*getDadosPedidoUtilizador_C3_C4\s*(/CheckIn _student_getDadosPedidoUtilizador_C3_C4(/
+s/^\s*void\s\s*writeRequest_C5\s*(/void _student_writeRequest_C5(/
+s/^\s*void\s\s*configureTimer_C6\s*(/void _student_configureTimer_C6(/
+s/^\s*void\s\s*waitForEvents_C7\s*(/void _student_waitForEvents_C7(/
+s/^\s*void\s\s*trataSinalSIGUSR1_C8\s*(/void _student_trataSinalSIGUSR1_C8(/
+s/^\s*void\s\s*trataSinalSIGHUP_C9\s*(/void _student_trataSinalSIGHUP_C9(/
+s/^\s*void\s\s*trataSinalSIGINT_C10\s*(/void _student_trataSinalSIGINT_C10(/
+s/^\s*void\s\s*trataSinalSIGALRM_C11\s*(/void _student_trataSinalSIGALRM_C11(/
