@@ -37,6 +37,12 @@ cd so_2023_trab2_validator
 ./so_2023_trab2_validator.py ..
 ```
 
+# Documentação
+
+Para mais detalhes, consulte a [documentação em PDF]([link_para_o_seu_pdf.pdf](https://github.com/alarmant0/IscteFlight-2/blob/main/so-2022-practical-assignment-part-2-v3.pdf)).
+
+
+
 # Licença
 Este projeto está licenciado sob a Licença MIT.
 
