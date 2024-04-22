@@ -52,7 +52,7 @@ cd so_2023_trab2_validator
 For more details, please refer to the [documentation in PDF](https://github.com/alarmant0/IscteFlight-2/blob/main/so-2022-practical-assignment-part-2-v3.pdf). ( Only availabe in Portuguese /: )
 
 
-# Licença
-Este projeto está licenciado sob a Licença [MIT License](LICENSE).
+# License
+This project is licensed under the [MIT License](LICENSE).
 
 :)
