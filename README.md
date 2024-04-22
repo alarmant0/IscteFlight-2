@@ -12,7 +12,7 @@ IscteFlight-2 is a simplified flight control system consisting of a server and a
 
 **Requirements**
 
-- Bash (Bourne Again SHell) interpreter.
+- Bash interpreter.
 - Linux or macOS operating system (may work on Windows with WSL or Cygwin).
 
 ## How to Use
