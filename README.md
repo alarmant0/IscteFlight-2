@@ -53,6 +53,6 @@ For more details, please refer to the [documentation in PDF](https://github.com/
 
 
 # Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença [MIT License](LICENSE).
 
 :)
