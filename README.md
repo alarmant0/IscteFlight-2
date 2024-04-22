@@ -28,7 +28,7 @@ gcc cliente.c -o cliente
 ./cliente
 ```
 
-# Verificação de integridade
+## Verificação de integridade
 
 Para verificar a integridade do projeto tem de:
 
@@ -37,9 +37,9 @@ cd so_2023_trab2_validator
 ./so_2023_trab2_validator.py ..
 ```
 
-# Documentação
+## Documentação
 
-Para mais detalhes, consulte a [documentação em PDF]([link_para_o_seu_pdf.pdf](https://github.com/alarmant0/IscteFlight-2/blob/main/so-2022-practical-assignment-part-2-v3.pdf)).
+Para mais detalhes, consulte a [documentação em PDF](https://github.com/alarmant0/IscteFlight-2/blob/main/so-2022-practical-assignment-part-2-v3.pdf).
 
 
 
